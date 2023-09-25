@@ -1,8 +1,8 @@
-import 'package:benji_user/app/splash_screens/startup_splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 
+import 'app/splash_screens/startup_splash_screen.dart';
 import 'theme/app theme.dart';
 import 'theme/colors.dart';
 
